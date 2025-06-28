@@ -13,8 +13,8 @@ Welcome to **TravelSaurus**, a clean and responsive travel website focused on hi
 
 ## 🔧 Tools & Technologies
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - Figma (for UI/UX design)
 - VS Code
 
