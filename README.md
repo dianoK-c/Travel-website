@@ -3,15 +3,6 @@
 
 Welcome to **TravelSaurus**, a clean and responsive travel website focused on hiking adventures! This project was designed in **Figma** and built using **HTML and CSS**.
 
-## 🖼️ Project Preview
-
-![Travel Website Screenshot](C:\Users\hp\OneDrive\Desktop\Desktop - 1.png)
-
-
-## 🚀 Live Website
-
-👉 [View Live](file:///C:/Users/hp/OneDrive/Desktop/html/travel.html/index.html#) 
-
 ## 🎯 Features
 
 - Modern, minimal travel website layout
